@@ -72,6 +72,7 @@ sequenceDiagram
     
     PaymentAPI->>PaymentAPI: Ledger (Cari) Kayitlarini Olustur
     PaymentAPI-->>Client: Odeme Basarili (Siparis Yonlendirmesi)
+```
 Kurulum ve Calistirma
 Projenin yerel gelistirme ortaminda calistirilabilmesi icin Docker gereklidir.
 
